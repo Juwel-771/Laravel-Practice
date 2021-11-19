@@ -1,0 +1,12 @@
+h3{
+    color: yellow;
+    background-color: teal;
+    width: 500px;
+    height: 150px;
+    margin: 20px;
+    text-align: center;
+}
+*{
+    background-color: tomato;
+    text-align: center;
+}
